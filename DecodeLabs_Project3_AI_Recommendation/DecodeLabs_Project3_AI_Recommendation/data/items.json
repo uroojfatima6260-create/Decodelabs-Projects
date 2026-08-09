@@ -1,0 +1,21 @@
+[{
+        "category": "AI",
+        "level": "Beginner",
+        "title": "Python for AI"
+    },
+    {
+        "category": "AI",
+        "level": "Intermediate",
+        "title": "Machine Learning Basics"
+    },
+    {
+        "category": "Web",
+        "level": "Beginner",
+        "title": "HTML & CSS"
+    },
+    {
+        "category": "Data",
+        "level": "Beginner",
+        "title": "Pandas Essentials"
+    }
+]
